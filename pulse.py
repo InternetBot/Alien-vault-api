@@ -1,7 +1,7 @@
 import requests
 
 # API key for authentication
-api_key = 'cf7d3c7a9abdae2b81a45e263f594cb78e995fc2757ca677105fb0ea25f6d332'
+api_key = ''
 headers = {'X-OTX-API-KEY': api_key}
 
 # Endpoint to get IoCs from a specific pulse
